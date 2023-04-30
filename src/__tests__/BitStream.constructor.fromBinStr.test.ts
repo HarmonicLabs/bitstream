@@ -1,4 +1,4 @@
-import { BitStream } from "../BitStream"
+import { BitStream } from ".."
 import { removeSpaces } from "../utils/removeSpaces";
 
 describe("BitStream.fromBinStr ", () => {

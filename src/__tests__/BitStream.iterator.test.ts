@@ -1,4 +1,4 @@
-import { BitStream, RawBit } from "../BitStream";
+import { BitStream, RawBit } from "..";
 import BigIntUtils from "../utils/BigIntUtils";
 
 

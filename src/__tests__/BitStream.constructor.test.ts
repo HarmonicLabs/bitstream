@@ -1,5 +1,5 @@
 import { fromHex, toHex } from "@harmoniclabs/uint8array-utils";
-import {BitStream} from "../BitStream"
+import {BitStream} from ".."
 
 
 describe("new BitStream() is empty", () => {

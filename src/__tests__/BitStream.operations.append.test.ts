@@ -1,5 +1,5 @@
 import { fromHex, toHex } from "@harmoniclabs/uint8array-utils";
-import {BitStream} from "../BitStream";
+import {BitStream} from "..";
 import BigIntUtils from "../utils/BigIntUtils";
 import { getNOfUsedBits } from "../utils/stuff";
 
